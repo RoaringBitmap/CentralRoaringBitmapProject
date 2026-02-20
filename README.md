@@ -1,5 +1,5 @@
 ## CentralRoaringBitmapProject
-[![gradle (17, 21) CI](https://github.com/RoaringBitmap/CentralRoaringBitmapProject/actions/workflows/allversions.yml/badge.svg)](https://github.com/RoaringBitmap/CentralRoaringBitmapProject/actions/workflows/allversions.yml)
+[![gradle (17, 21) CI](https://github.com/RoaringBitmap/CentralRoaringBitmapProject/actions/workflows/allversions.yml/badge.svg)](https://github.com/RoaringBitmap/CentralRoaringBitmapProject/actions/workflows/allversions.yml) [![maven (21) CI](https://github.com/RoaringBitmap/CentralRoaringBitmapProject/actions/workflows/mvnallversions.yml/badge.svg)](https://github.com/RoaringBitmap/CentralRoaringBitmapProject/actions/workflows/mvnallversions.yml)
 
 This is a demonstration of how to use the RoaringBitmap library from Maven Central.
 
