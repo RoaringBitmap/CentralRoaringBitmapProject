@@ -35,7 +35,7 @@ plugins {
     id 'java'
 }
 
-group 'org.roaringbitmap' // name of your project
+group 'me.project' // name of your project
 version '1.0-SNAPSHOT' // version of your project
 
 repositories {
