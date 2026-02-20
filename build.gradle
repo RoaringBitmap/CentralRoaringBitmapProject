@@ -1,0 +1,16 @@
+plugins {
+    id 'java'
+}
+
+group 'org.roaringbitmap'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.roaringbitmap:RoaringBitmap:1.6.9'
+    implementation 'org.roaringbitmap:bsi:1.6.9'
+    testImplementation 'junit:junit:3.8.1'
+}
